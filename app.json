@@ -3,6 +3,7 @@
     "name": "qoutes",
     "slug": "qoutes",
     "version": "1.0.0",
+    "description":"This is an NFTs marketplace as learning project with react native",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
